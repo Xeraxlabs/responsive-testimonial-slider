@@ -1,0 +1,25 @@
+/* Common page resets */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Common page resets */
+
+/*  variable declarations */
+:root {
+    --white-color: #fff;
+    --support-color: #fb175f;
+    --box-shadow: rgb(0 0 0 / 16%) 0px 2px 8px;
+    --green-gradient: linear-gradient(to right, rgba(0, 128, 0, 0.7), rgba(0, 128, 0, 0.5));
+
+}
+
+/*  variable declarations */
+
+/* testimonial section starts here */
+/* testimonial section ends here */
+
+/* Swiper styles starts here */
+/* Swiper styles ends here */

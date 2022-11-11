@@ -1,0 +1,15 @@
+Happy clients
+
+
+ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo sequi consequatur,
+ voluptatem fuga ducimus velit assumenda. Quos quibusdam
+
+ Johnes Miguel
+
+ style="background: tomato"
+
+ tomato
+ orange
+ greenyellow
+
+ style="filter: brightness(50%);"
