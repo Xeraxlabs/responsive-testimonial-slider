@@ -2,11 +2,11 @@
 
 # responsive-testimonial-slider
 
-A Simple testimonial slider made with swiper JS A complete guide about how to build this project from scratch is covered in this [Youtube video](https://www.youtube.com/)
+A Simple testimonial slider made with swiper JS, A complete guide about how to build this project from scratch is covered in this [Youtube video](https://www.youtube.com/)
 
 ## Preview Application
 
-- https://
+- https://core-rts.netlify.app
 
 ## Youtube Tutorial Link
 
